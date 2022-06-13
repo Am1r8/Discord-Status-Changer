@@ -7,7 +7,7 @@ status = ["Check out am1r.tech", "ZEDSIO Studio is officially LIVE", "JUST A BOR
 token = os.environ.get('token')
 emojies = ["📢", "🎮", "👨‍💻", "💻", "💬"]
 emo = ""
-delay = 20
+delay = 40
 class main:
     def __init__(self, token, status):
         self.token = token
