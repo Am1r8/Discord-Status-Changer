@@ -4,11 +4,11 @@ import time
 import os
 import random
 
-status = ["Check out am1r.tech", "ZEDSIO Studio is officially LIVE", "JUST A BORED PROGRAMMER", "ZEDSIO STUDIO the new epic games", "My portfolio: am1r.tech"]
+status = ["Check out am1r.tech", "ZEDSIO Studio is officially LIVE", "JUST A BORED PROGRAMMER", "ZEDSIO STUDIO the new epic games", "My portfolio: am1r.tech", "I call my self a developer but I can't develop a fucking relationship"]
 token = os.environ.get('token')
-emojies = ["📢", "🎮", "👨‍💻", "💻", "💬"]
+emojies = ["📢", "🎮", "👨‍💻", "💻", "💬", " "]
 emo = ""
-delay = 40
+delay = 25
 class main:
     def __init__(self, token, status):
         self.token = token
