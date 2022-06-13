@@ -2,6 +2,7 @@ import requests
 import json
 import time
 import os
+import random
 
 status = ["Check out am1r.tech", "ZEDSIO Studio is officially LIVE", "JUST A BORED PROGRAMMER", "ZEDSIO STUDIO the new epic games", "My portfolio: am1r.tech"]
 token = os.environ.get('token')
