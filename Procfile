@@ -1,1 +1,1 @@
-web: python script.py --bind :$PORT --workers 1 --threads 10 --timeout 0
+worker: python script.py --bind :$PORT --workers 1 --threads 10 --timeout 0
