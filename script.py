@@ -4,9 +4,9 @@ import time
 import os
 import random
 
-status = ["Check out am1r.tech", "ZEDSIO Studio is officially LIVE", "JUST A BORED PROGRAMMER", "ZEDSIO STUDIO the new epic games", "My portfolio: am1r.tech", "I call my self a developer but I can't develop a fucking relationship"]
+status = ["Check out am1r.tech", "ZEDSIO Studio is officially LIVE", "JUST A BORED PROGRAMMER", "ZEDSIO STUDIO the new epic games", "My portfolio: am1r.tech", "I call my self a developer but I can't develop a fucking relationship", "summer is finnaly here babyyyyyyyyyyyy lets gooooooo"]
 token = os.environ.get('token')
-emojies = ["📢", "🎮", "👨‍💻", "💻", "💬", " "]
+emojies = ["📢", "🎮", "👨‍💻", "💻", "💬", " ", "☀️"]
 photos = []
 emo = ""
 delay = 25
