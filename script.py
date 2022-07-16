@@ -9,7 +9,7 @@ token = os.environ.get('token')
 emojies = ["📢", "🎮", "👨‍💻", "💻", "💬", "✨", ""]
 photos = []
 emo = ""
-delay = 2
+delay = 10
 class main:
     def __init__(self, token, status):
         self.token = token
