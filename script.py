@@ -4,9 +4,9 @@ import time
 import os
 import random
 
-status = ["Website: am1r.tech", "IG: @am1r__8", "JUST A BORED PROGRAMMER", "I call my self a developer but I can't develop a fucking relationship", "are you a rusher, or are you a dragger or are you gonna be ON MY FUCKING TIME?", "I gotta tell u it was perfect, perfect everything down to the last minute details", "The most harmful words in the English language are GOOD JOB"]
+status = ["Website: am1r.tech", "IG: @am1r__8", "GitHub: Am1r8"]
 token = os.environ.get('token')
-emojies = ["📢", "🎮", "👨‍💻", "💻", "💬", "✨", ""]
+emojies = ["📢", "🎮", "👨‍💻"]
 photos = []
 emo = ""
 delay = 15
