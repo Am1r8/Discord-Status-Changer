@@ -6,7 +6,7 @@ import random
 
 status = ["'My unmatched perspicacity, coupled with my sheer indefatigability, combine to make me a feared opponent in any realm of human endeavor.', EMORY TATE"]
 token = os.environ.get('token')
-emojies = ["📢"]
+emojies = [""]
 emo = ""
 delay = 10
 class main:
