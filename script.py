@@ -4,9 +4,9 @@ import time
 import os
 import random
 
-status = ["My unmatched perspicacity, coupled with my sheer indefatigability, combine to make me a feared opponent in any realm of human endeavor."]
+status = ["Website: am1r.tech", "IG: @am1r__8", "GitHub: Am1r8", "ETH Address: amirsol.eth", "September 10th till 20th is ETH merge get ready!"]
 token = os.environ.get('token')
-emojies = [""]
+emojies = ["📢", "🎮", "👨‍💻", "👛", "✨"]
 emo = ""
 delay = 10
 class main:
