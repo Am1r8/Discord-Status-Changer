@@ -4,7 +4,7 @@ import time
 import os
 import random
 
-status = ["EMORY TATE"]
+status = ["My unmatched perspicacity, coupled with my sheer indefatigability, combine to make me a feared opponent in any realm of human endeavor."]
 token = os.environ.get('token')
 emojies = [""]
 emo = ""
