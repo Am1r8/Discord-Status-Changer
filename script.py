@@ -4,7 +4,7 @@ import time
 import os
 import random
 
-status = ["Website: am1r.tech", "IG: @am1r__8", "GitHub: Am1r8", "ETH Address: amirsol.eth", "Imagine living life and not feeling like a walking weapon"]
+status = ["Website: am1r.tech", "IG: @am1r__8", "GitHub: Am1r8", "ETH Address: amirsol.eth", "I'm a dreamer. I have to dream and reach for the stars, and if I miss a star I grab handful of clouds...", "People say they are willing to die for it, but we live for it, WE ARE LIVING FOR THE BATTLE!"]
 token = os.environ.get('token')
 emojies = ["📢", "🎮", "👨‍💻", "👛", "✨"]
 emo = ""
